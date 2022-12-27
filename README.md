@@ -9,7 +9,7 @@
 1. 浏览器进入调试模式，在console处，从top切换到MD_Device_user.html
     1. 在console内执行
         ```
-        `*`
+        *
         ```
     1. 注意反引号属于代码的一部分，得到一个url，打开之后点击备份(如果不可点击，审查元素然后删除disabled)
     1. **如果上述方式执行失败**，根据[KoolShare](https://koolshare.cn/forum.php?mod=redirect&goto=findpost&ptid=166510&pid=2227183)坛友的做法也可以尝试执行下列代码
